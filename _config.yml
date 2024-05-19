@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Ajaykumar (Ajay) Manivannan"
 description              : &description "personal description"
 url                      : https://ajaymanivannan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/home" # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "ajaymanivannan/ajaymanivannan.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -21,7 +21,7 @@ repository               : "ajaymanivannan/ajaymanivannan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "profile.png"
   name             : "Ajay Manivannan"
   pronouns         : # example: "she/her"  
   bio              : "Researcher in smart cities/computational social science/network science"
