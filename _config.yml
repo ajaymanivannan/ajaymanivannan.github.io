@@ -21,7 +21,7 @@ repository               : "ajaymanivannan/ajaymanivannan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Ajay Manivannan"
   pronouns         : # example: "she/her"  
   bio              : "Researcher in smart cities/computational social science/network science"
